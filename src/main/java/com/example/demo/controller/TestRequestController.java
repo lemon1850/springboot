@@ -31,7 +31,7 @@ import java.util.Map;
 public class TestRequestController {
 
 
-    Class
+
     @RequestMapping("/abb")
     public String a(@RequestParam("cat") String name, @RequestParam Map<String,String> map ){
         System.out.println(name);
@@ -40,7 +40,7 @@ public class TestRequestController {
     }
 
 
-    @RequestMapping(value = "/bcc",)
+    @RequestMapping(value = "/bcc")
     public String abc(@RequestBody Map<String,String> map ){
         System.out.println(map);
         return "abc";
