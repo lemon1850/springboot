@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.cache.annotation.Caching;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Date;
 
@@ -17,6 +18,11 @@ public class FooService {
     StudentMapper studentMapper;
     @Autowired
     ClassMapper classMapper;
+    @Autowired
+    ClassService classService;
+    @Autowired
+    StudentService studentService;
+
 
 
     public void updateClassName(String className, int id ){
@@ -46,6 +52,19 @@ public class FooService {
             throw new RuntimeException();
         }
         ((FooService)AopContext.currentProxy()).updateClassName("ggggg", 1);
+
+    }
+
+    @Transactional
+    public void totalRun(){
+
+        classService.updateClassName("更新className", 1);
+
+        if(1==1){
+            throw new RuntimeException();
+        }
+
+        studentService.updateStudentName("更新学生", 1);
 
     }
 

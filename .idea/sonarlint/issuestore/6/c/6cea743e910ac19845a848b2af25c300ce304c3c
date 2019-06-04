@@ -1,0 +1,18 @@
+
+gsquid:S17643"KCorrect one of the identical sub-expressions on both sides of operator "=="(À‚‚·úÿÿÿÿ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+gsquid:S1764)"KCorrect one of the identical sub-expressions on both sides of operator "=="(À‚‚·úÿÿÿÿ
+nsquid:S1764?"KCorrect one of the identical sub-expressions on both sides of operator "=="(À‚‚·úÿÿÿÿ8¾ª‚Á”-
+jsquid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8¾ª‚Á”-
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Åÿº¹şÿÿÿÿ
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÿ‚Ù©úÿÿÿÿ
+osquid:UselessImportCheck"KRemove this unused import 'org.springframework.cache.annotation.Cacheable'.(İºØ“
+csquid:S001124"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ËÓ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(›Âôºùÿÿÿÿ
+csquid:S00112*"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+rsquid:UselessImportCheck"IRemove this unused import 'org.springframework.cache.annotation.Caching'.(å¸”üúÿÿÿÿ

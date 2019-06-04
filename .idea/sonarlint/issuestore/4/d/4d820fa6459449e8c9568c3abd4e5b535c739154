@@ -1,0 +1,5 @@
+
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.( ·¶’úÿÿÿÿ8®…úÀ”-
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8‚õÕÀ”-
+_squid:UselessImportCheck
+"4Remove this unused import 'java.lang.reflect.Proxy'.(…ÕÛ²8Ô‹ Æ”-

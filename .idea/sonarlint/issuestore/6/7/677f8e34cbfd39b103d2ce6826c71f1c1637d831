@@ -1,0 +1,9 @@
+
+esquid:S00112="FDefine and throw a dedicated exception instead of using a generic one.(Ù«‚ƒ8¬¹‹ß -
+osquid:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(¶ªºô8¬¹‹ß -
+Fsquid:S11481"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ8¬¹‹ß -
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¶ªºô8¬¹‹ß -
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Œ„±ÿ8¬¹‹ß -
+Csquid:S34572"%String contains no format specifiers.(¶ªºô8¬¹‹ß -

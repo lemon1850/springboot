@@ -1,0 +1,6 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º·ˆ¸þÿÿÿÿ8¥¹ƒ¯®-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ýþ8ŒùãÚ«-
+Ksquid:S1604"(Make this anonymous inner class a lambda(å¹â‚ûÿÿÿÿ8ŒùãÚ«-
+]squid:S1854":Remove this useless assignment to local variable "future".(å¹â‚ûÿÿÿÿ8¥¹ƒ¯®-
+Nsquid:S1481"+Remove this unused "future" local variable.(å¹â‚ûÿÿÿÿ8¥¹ƒ¯®-

@@ -1,0 +1,2 @@
+miaomi=spi.MiaomiQueryImpl
+computer=spi.ComputerQueryImpl

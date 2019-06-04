@@ -1,0 +1,27 @@
+
+Zsquid:UnusedPrivateMethod\"0Remove this unused private "printResult" method.(×ÎÖÄúÿÿÿÿ
+rsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ŒÅë¹ûÿÿÿÿ
+<squid:S2068I" Remove this hard-coded password.(¹»­èúÿÿÿÿ
+csquid:S2095M"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+dsquid:S2095I"HUse try-with-resources or close this "Connection" in a "finally" clause.(¹»­èúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õŒíã
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è…¶ô
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŞÕŠÉøÿÿÿÿ
+bsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(è…¶ô
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(¤¡¹·üÿÿÿÿ
+gsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(êİ˜Üúÿÿÿÿ
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(êİ˜Üúÿÿÿÿ
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ùõ’šşÿÿÿÿ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+Ksquid:S1481Q"/Remove this unused "savepoint2" local variable.(à–œóşÿÿÿÿ
+Ksquid:S1481S"/Remove this unused "savepoint3" local variable.(¤ğÔ“úÿÿÿÿ
+Zsquid:S1854S">Remove this useless assignment to local variable "savepoint3".(¤ğÔ“úÿÿÿÿ
+Zsquid:S1854Q">Remove this useless assignment to local variable "savepoint2".(à–œóşÿÿÿÿ
+rsquid:S00115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äŠ•
+wsquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(úäÀ˜úÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒÅë¹ûÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'org.apache.ibatis.jdbc.SQL'.(®‰Í´
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,14 @@
+
+Gsquid:S2129+"$Remove this "BigDecimal" constructor(ª“¢Þÿÿÿÿÿ8¨Ÿÿü©-
+1squid:S1220""Move this file to a named package.
+hsquid:S2095""EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8…¶·ü©-
+fsquid:S2095!"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8®Ã±ü©-
+isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Íõ²á8„…ëü©-
+Dsquid:S2111+"!Use "BigDecimal.valueOf" instead.(ª“¢Þÿÿÿÿÿ8¨Ÿÿü©-
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¿“°”úÿÿÿÿ8—…Ëü©-
+[squid:S1854"8Remove this useless assignment to local variable "gson".(È™ëûÿÿÿÿ8„…ëü©-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ª“¢Þÿÿÿÿÿ8¨Ÿÿü©-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ª¬ý8 Ÿíü©-
+Lsquid:S1481")Remove this unused "gson" local variable.(È™ëûÿÿÿÿ8„…ëü©-

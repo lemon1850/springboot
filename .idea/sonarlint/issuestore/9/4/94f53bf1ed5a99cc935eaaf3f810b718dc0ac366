@@ -1,0 +1,15 @@
+
+Csquid:S1481„"&Remove this unused "b" local variable.(Õÿê¢ÿÿÿÿÿ
+[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+Ksquid:S1066"/Merge this if statement with the enclosing one.(ÕŸæ×øÿÿÿÿ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(¹×‚Öúÿÿÿÿ
+Esquid:S1940")Use the opposite operator ("!=") instead.(œ•”·üÿÿÿÿ
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(”Ô¼©ýÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Üö¬Õ
+Esquid:S1940")Use the opposite operator ("!=") instead.(ÕŸæ×øÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦ÑœÃ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼•ÃÑ
+Xsquid:S1126#"AReplace this if-then-else statement by a single return statement.(µ²ðÝ
+Rsquid:S1854„"5Remove this useless assignment to local variable "b".(Õÿê¢ÿÿÿÿÿ
+@squid:S1940")Use the opposite operator ("!=") instead.(ç¼û

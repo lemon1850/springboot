@@ -1,0 +1,32 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©«š‘
+Vsquid:S2274!":Remove this call to "wait" or move it into a "while" loop.(©€ïÕøÿÿÿÿ
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(•èîŒ
+@squid:S10681"*Remove this unused "thread" private field.(â£Ÿ4
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡ú´Ýûÿÿÿÿ
+Lsquid:S1854"5Remove this useless assignment to local variable "b".(¡‘û£
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(ú³ô²þÿÿÿÿ
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(·Í˜¶
+]squid:S2142>"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÝþÕûýÿÿÿÿ
+=squid:S1481"&Remove this unused "b" local variable.(¡‘û£
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(„¢¼þÿÿÿÿ
+_squid:S2276H"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(œÖÂóýÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(’œªÏüÿÿÿÿ
+Lsquid:S2446L"0"notify" may not wake up the appropriate thread.(ÑÂŽùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤€˜Ëþÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ï¨êå
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¹³©Ð
+O
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Æ•×¥
+]squid:S2142I"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ

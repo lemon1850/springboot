@@ -6,17 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
+        <module name="dubbo" />
+        <module name="java" />
+        <module name="rabbitmq" />
+        <module name="redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="demo" target="1.8" />
+      <module name="dubbo" target="1.8" />
+      <module name="java" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
+      <module name="redis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="GENERATE_NO_WARNINGS" value="true" />
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
+      <module name="dubbo" options="-parameters" />
+      <module name="java" options="-parameters" />
+      <module name="rabbitmq" options="-parameters" />
+      <module name="redis" options="-parameters" />
     </option>
   </component>
 </project>

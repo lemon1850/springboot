@@ -1,0 +1,10 @@
+
+Hsquid:S12649",Replace this "for" loop with a "while" loop.(—Ïßçÿÿÿÿÿ
+/squid:S1700"Rename field "node"(âËóÙüÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "find".(êïõ±
+squid:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥ø©ôşÿÿÿÿ
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒÎğûÿÿÿÿ
+Fsquid:S00108")Either remove or fill this block of code.(é®çøÿÿÿÿ
+?squid:S1068")Remove this unused "value" private field.(ÉŠH
+@squid:S1481")Remove this unused "find" local variable.(êïõ±
+squid:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ÃÄ¼úÿÿÿÿ

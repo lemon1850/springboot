@@ -1,0 +1,39 @@
+
+`squid:S4143<"DVerify this is the key that was intended; it was already set before.(ôÍ†”øÿÿÿÿ
+Asquid:S00108O")Either remove or fill this block of code.(ŞûÆø
+gsquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ãÀøüÿÿÿÿ
+bsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(©ç
+N
+squid:S1061"9Replace this use of System.out or System.err by a logger.(»àÙ
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(‡·§ƒøÿÿÿÿ
+gsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ß‹Œ€şÿÿÿÿ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(Á’üÀùÿÿÿÿ
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Ksquid:S1481="4Remove this unused "basicProperties" local variable.(Å«
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(ÿ¬‹Ûúÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Î©ı
+gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(Ç¬Ø÷ùÿÿÿÿ
+gsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(ôñ±Éüÿÿÿÿ
+bsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(áØçé
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Ãæå²ùÿÿÿÿ
+asquid:S2095 "EUse try-with-resources or close this "Channel" in a "finally" clause.(ãñªÿÿÿÿÿ
+gsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(Ø¨½ùÿÿÿÿ
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(’ÒÅ­
+bsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(µ³£¡
+asquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(…Ú
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(š»Ğóøÿÿÿÿ
+Zsquid:S1854="CRemove this useless assignment to local variable "basicProperties".(Å«
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒÂº¨ÿÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+bsquid:S1192;"FDefine a constant instead of duplicating this literal "hello" 3 times.(‰Ü¤Íøÿÿÿÿ
+gsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ˆÌêıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Åê±³üÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€¸Ììùÿÿÿÿ
+dsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(İ‚Ìùÿÿÿÿ
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¦–ùğ
+Dsquid:S1604{"(Make this anonymous inner class a lambda(êş‡úúÿÿÿÿ

@@ -1,0 +1,9 @@
+
+Ssquid:S1068"5Remove this unused "serializeProtocol" private field.(Ï³¤—8½ÑÄß -
+[squid:S11724"8Remove this unused method parameter "serializeProtocol".(Æí¥ëÿÿÿÿÿ8½ÑÄß -
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ùÜ¤­úÿÿÿÿ8½ÑÄß -
+~squid:S1450"`Remove the "serializeProtocol" field and declare it as a local variable in the relevant methods.(Ï³¤—8½ÑÄß -
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ùÜ¤­úÿÿÿÿ8½ÑÄß -
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(éËŸôıÿÿÿÿ8¸ƒùŞ -
+Ysquid:S2274O";Remove this call to "await" or move it into a "while" loop.(¤”Œ8ä˜Åß -
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÃòÍ“úÿÿÿÿ8½ÑÄß -

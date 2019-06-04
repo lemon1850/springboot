@@ -1,0 +1,13 @@
+
+bsquid:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(Îäµ®ùÿÿÿÿ
+_squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú
+asquid:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(À“äôþÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô‚Ü¢
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–±°ç
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(àï¿¥ýÿÿÿÿ
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(æÐž
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¼ª¬¾úÿÿÿÿ
